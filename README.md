@@ -1,5 +1,5 @@
 # mini-chatgpt-version-
-only for text ans 
+only for text answer
 
 
 this file download to  related library download
