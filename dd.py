@@ -17,7 +17,7 @@ interface = gr.Interface(
     fn=generate_writing_prompt,
     inputs=gr.Textbox(lines=3, placeholder="Enter a title or prompt..."),
     outputs="text",
-    title="Creative Writing Assistant",
+    title="Mini chatgpt",
     description="Unleash your creativity! Get inspired with unique story ideas and prompts.",
     theme="huggingface",
     examples=[
